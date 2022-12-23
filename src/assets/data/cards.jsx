@@ -33,7 +33,7 @@ const arrayCards = [
     name: "El enamorado",
     number: "VI",
     propiedad: "Arcano Mayor",
-    clave: "Tres personajes en el mismo nivel: union o conflicto? Matices infinitos de la vida emocional. Hacer lo que a uno le gusta bajo el esplendor del amor universal"
+    clave: "Tres personajes en el mismo nivel, Matices infinitos de la vida emocional. Hacer lo que te gusta bajo el esplendor del amor universal"
   },
   {img: "7-LaCarroza.png",
     name: "El Carro",

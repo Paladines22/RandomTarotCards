@@ -12,11 +12,18 @@ function App() {
 
   const [index, setIndex] =useState(randomCard())
 
+  const changeIndex  = () => {
+    const newRandom = Math.floor(Math.random( ) * cards.length)
+    setIndex(newRandom)
+  }
+
   return (
     <div className="App">
       <Cards 
       cardsData={cards[index]}/>
-      <button>Aleatorio!</button>
+      <div className='container-boton'>
+          <button onClick={changeIndex}>Aleatorio</button>
+      </div>
     </div>
   )
 }
