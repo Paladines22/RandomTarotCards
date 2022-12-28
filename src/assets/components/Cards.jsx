@@ -10,7 +10,7 @@ const Cards =({cardsData}) => {
   return (
     <div className="cards-container">
       <div className="card">
-        <img src={`./src/assets/img/${img}`}></img>
+        <img src={`../src/assets/img/${img}`}></img>
         <div className="text">
           <h3 style={{color:color}}>{name}</h3>
           <h4 style={{color:color}}>{number}</h4>
