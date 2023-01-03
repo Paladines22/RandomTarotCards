@@ -1,17 +1,17 @@
 const arrayCards = [
-  { img: "./src/assets/img/1-ElMago.png",
+  { img: "/src/assets/img/1-ElMago.png",
     name: "El Mago",
     number: "I",
     propiedad: "Arcano Mayor",
     clave: "Todo está en potencia. Hay que aprender a elegir "
   },
-  { img: "./src/assets/img/2-LaSacerdotisa.png",
+  { img: "/src/assets/img/2-LaSacerdotisa.png",
     name: "La Sacerdotisa",
     number: "II",
     propiedad: "Arcano Mayor",
     clave: "Enclaustrada, estudia incubando un huevo. Prepara una accion pero no la lleva a cabo (todavia)"
   },
-  { img: "./src/assets/img/3-LaEmperatriz.png",
+  { img: "/src/assets/img/3-LaEmperatriz.png",
     name: "La Emperatriz",
     number: "III",
     propiedad: "Arcano Mayor",
