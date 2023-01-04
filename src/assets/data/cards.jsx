@@ -53,13 +53,13 @@ const arrayCards = [
     propiedad: "Arcano Mayor",
     clave: "Sabiduria, soledad esencial, confianza en lo desconocido"
   },
-  { img: "./src/assets/img/10-LaRuedaDeLaFortuna.png",
+  { img: "/src/assets/img/10-LaRuedaDeLaFortuna.png",
     name: "La Rueda de la Fortuna",
     number: "X",
     propiedad: "Arcano Mayor",
     clave: "Todo esta inmovil pero hay una manivela. Ciclo completo. Gran experiencia y falta de energía. Necesiad de ayuda"
   },
-  { img: "./src/assets/img/11-LaFuerza.png",
+  { img: "git a/src/assets/img/11-LaFuerza.png",
     name: "La Fuerza",
     number: "XI",
     propiedad: "Arcano Mayor",
