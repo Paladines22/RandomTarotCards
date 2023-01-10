@@ -6,7 +6,7 @@
 
 .cards-container {
   display: flex;
-  height: 930px;
+  height: 100vh;
   border-radius: 40px;
 }
 
@@ -24,8 +24,11 @@
   width:300px;
 }
 .container-boton {
-  display: flex;
+  position: relative;
+  left: 46vw;
+  bottom: 30vh;
 }
+
 .text {
   line-height: 25px;
   padding-top: 10px;
@@ -34,17 +37,17 @@
   font-weight: 100;
 }
 
-.container-boton {
-  display: flex;
-}
 .container-boton button {
   font-size: 17px;
   margin: 20px auto;
   padding: 10px 20px;
-  border-radius: 8px;
+  border-radius: 30px;
   background-color: black;
   border: none;
   color: snow;
+}
+.icon-img {
+  width: 40px;
 }
 
 

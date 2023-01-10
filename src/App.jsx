@@ -29,7 +29,7 @@ function App() {
       <Cards 
       cardsData={cards[index]}/>
       <div className='container-boton'>
-          <button onClick={changeIndex}>Aleatorio</button>
+          <button onClick={changeIndex}><img className='icon-img' src="/random.png" alt="" /></button>
       </div>
     </div>
   ) 
